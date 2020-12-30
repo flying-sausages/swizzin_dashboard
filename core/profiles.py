@@ -253,6 +253,13 @@ class tautulli_meta:
     baseurl = "/tautulli"
     runas = "tautulli"
 
+class trackarr_meta:
+    name = "trackarr"
+    pretty_name = "Trackarr"
+    baseurl = "/trackarr"
+    systemd = "trackarr"
+    runas = "trackarr"
+    
 class transmission_meta:
     name = "transmission"
     pretty_name = "Transmission"
